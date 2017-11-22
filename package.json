@@ -1,5 +1,5 @@
 {
-	"name": "ckeditor-dev",
+	"name": "ckeditor",
 	"version": "4.7.3",
 	"description": "The development version of CKEditor - JavaScript WYSIWYG web text editor.",
 	"devDependencies": {
@@ -32,5 +32,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ckeditor/ckeditor-dev.git"
-	}
+	},
+	"main": "./dev/builder/release/ckeditor/ckeditor.js"
 }
