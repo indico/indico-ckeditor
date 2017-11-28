@@ -2,7 +2,7 @@
 Copyright (c) 2003-2017, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.lang['en'] = {
+CKEDITOR.lang['en-gb'] = {
     undo : 
     {
     	redo : 'Redo',
@@ -80,8 +80,8 @@ CKEDITOR.lang['en'] = {
     	headersNone : 'None',
     	headersRow : 'First Row',
     	invalidBorder : 'Border size must be a number.',
-    	invalidCellPadding : 'Cell padding must be a positive number.',
-    	invalidCellSpacing : 'Cell spacing must be a positive number.',
+    	invalidCellPadding : 'Cell padding must be a number.',
+    	invalidCellSpacing : 'Cell spacing must be a number.',
     	invalidCols : 'Number of columns must be a number greater than 0.',
     	invalidHeight : 'Table height must be a number.',
     	invalidRows : 'Number of rows must be a number greater than 0.',
@@ -142,8 +142,8 @@ CKEDITOR.lang['en'] = {
     },
     maximize : 
     {
-    	maximize : 'Maximize',
-    	minimize : 'Minimize'
+    	maximize : 'Maximise',
+    	minimize : 'Minimise'
     },
     magicline : 
     {
@@ -222,7 +222,7 @@ CKEDITOR.lang['en'] = {
     justify : 
     {
     	block : 'Justify',
-    	center : 'Center',
+    	center : 'Centre',
     	left : 'Align Left',
     	right : 'Align Right'
     },
@@ -320,24 +320,24 @@ CKEDITOR.lang['en'] = {
     {
     	clear : 'Clear',
     	highlight : 'Highlight',
-    	options : 'Color Options',
-    	selected : 'Selected Color',
-    	title : 'Select color'
+    	options : 'Colour Options',
+    	selected : 'Selected Colour',
+    	title : 'Select colour'
     },
     colorbutton : 
     {
     	auto : 'Automatic',
-    	bgColorTitle : 'Background Color',
+    	bgColorTitle : 'Background Colour',
     	colors : 
     	{
     		'000' : 'Black',
     		'800000' : 'Maroon',
     		'8B4513' : 'Saddle Brown',
-    		'2F4F4F' : 'Dark Slate Gray',
+    		'2F4F4F' : 'Dark Slate Grey',
     		'008080' : 'Teal',
     		'000080' : 'Navy',
     		'4B0082' : 'Indigo',
-    		'696969' : 'Dark Gray',
+    		'696969' : 'Dark Grey',
     		B22222 : 'Fire Brick',
     		A52A2A : 'Brown',
     		DAA520 : 'Golden Rod',
@@ -345,7 +345,7 @@ CKEDITOR.lang['en'] = {
     		'40E0D0' : 'Turquoise',
     		'0000CD' : 'Medium Blue',
     		'800080' : 'Purple',
-    		'808080' : 'Gray',
+    		'808080' : 'Grey',
     		F00 : 'Red',
     		FF8C00 : 'Dark Orange',
     		FFD700 : 'Gold',
@@ -353,7 +353,7 @@ CKEDITOR.lang['en'] = {
     		'0FF' : 'Cyan',
     		'00F' : 'Blue',
     		EE82EE : 'Violet',
-    		A9A9A9 : 'Dim Gray',
+    		A9A9A9 : 'Dim Grey',
     		FFA07A : 'Light Salmon',
     		FFA500 : 'Orange',
     		FFFF00 : 'Yellow',
@@ -393,9 +393,9 @@ CKEDITOR.lang['en'] = {
     		'7F8C8D' : 'Grayish Cyan',
     		'999' : 'Dark Gray'
     	},
-    	more : 'More Colors...',
-    	panelTitle : 'Colors',
-    	textColorTitle : 'Text Color'
+    	more : 'More Colours...',
+    	panelTitle : 'Colours',
+    	textColorTitle : 'Text Colour'
     },
     clipboard : 
     {
@@ -418,7 +418,7 @@ CKEDITOR.lang['en'] = {
     {
     	bold : 'Bold',
     	italic : 'Italic',
-    	strike : 'Strikethrough',
+    	strike : 'Strike Through',
     	subscript : 'Subscript',
     	superscript : 'Superscript',
     	underline : 'Underline'
@@ -459,12 +459,12 @@ CKEDITOR.lang['en'] = {
     	cancel : 'Cancel',
     	close : 'Close',
     	preview : 'Preview',
-    	resize : 'Resize',
+    	resize : 'Drag to resize',
     	generalTab : 'General',
     	advancedTab : 'Advanced',
     	validateNumberFailed : 'This value is not a number.',
     	confirmNewPage : 'Any unsaved changes to this content will be lost. Are you sure you want to load new page?',
-    	confirmCancel : 'You have changed some options. Are you sure you want to close the dialog window?',
+    	confirmCancel : 'You have changed some options. Are you sure you want to close the dialogue window?',
     	options : 'Options',
     	target : 'Target',
     	targetNew : 'New Window (_blank)',
@@ -477,10 +477,10 @@ CKEDITOR.lang['en'] = {
     	cssClasses : 'Stylesheet Classes',
     	width : 'Width',
     	height : 'Height',
-    	align : 'Alignment',
+    	align : 'Align',
     	alignLeft : 'Left',
     	alignRight : 'Right',
-    	alignCenter : 'Center',
+    	alignCenter : 'Centre',
     	alignJustify : 'Justify',
     	alignTop : 'Top',
     	alignMiddle : 'Middle',
