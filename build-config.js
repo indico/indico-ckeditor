@@ -1,6 +1,6 @@
 var CKBUILDER_CONFIG = {
     'skin': 'moono-lisa',
-    'languages': {'en': 1, 'es': 1, 'fr': 1},
+    'languages': {'en-gb': 1, 'es': 1, 'fr': 1},
     'plugins': {
         'a11yhelp': 1, 'basicstyles': 1, 'blockquote': 1, 'clipboard': 1, 'colorbutton': 1, 'colordialog': 1,
         'contextmenu': 1, 'elementspath': 1, 'enterkey': 1, 'entities': 1, 'find': 1, 'floatingspace': 1, 'font': 1,
